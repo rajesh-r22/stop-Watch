@@ -82,7 +82,7 @@ button:active {
 }
 
 .reset-btn {
-  background: #ffb400;
+  background: #dd4eb5;
   color: #1e1e2f;
 }
 
@@ -91,7 +91,7 @@ button:active {
 }
 
 .clear-btn {
-  background: #9b59b6;
+  background: #d7e908;
 }
 
 /* Reset value section */
@@ -102,7 +102,7 @@ button:active {
 }
 
 #resetValue p {
-  background: rgba(255, 255, 255, 0.1);
+  background: rgba(235, 52, 52, 0.1);
   padding: 10px 15px;
   border-radius: 8px;
   display: inline-block;
